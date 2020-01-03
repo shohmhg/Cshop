@@ -1,0 +1,5 @@
+C:\Users\shohm\source\repos\ConsoleApp\Index\bin\Debug\Index.exe.config
+C:\Users\shohm\source\repos\ConsoleApp\Index\bin\Debug\Index.exe
+C:\Users\shohm\source\repos\ConsoleApp\Index\bin\Debug\Index.pdb
+C:\Users\shohm\source\repos\ConsoleApp\Index\obj\Debug\Index.exe
+C:\Users\shohm\source\repos\ConsoleApp\Index\obj\Debug\Index.pdb

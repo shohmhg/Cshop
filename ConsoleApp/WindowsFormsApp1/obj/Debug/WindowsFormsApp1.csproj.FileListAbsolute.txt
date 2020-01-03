@@ -1,0 +1,9 @@
+C:\Users\shohm\source\repos\ConsoleApp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\shohm\source\repos\ConsoleApp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\shohm\source\repos\ConsoleApp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\shohm\source\repos\ConsoleApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\shohm\source\repos\ConsoleApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forme.resources
+C:\Users\shohm\source\repos\ConsoleApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\shohm\source\repos\ConsoleApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\shohm\source\repos\ConsoleApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\shohm\source\repos\ConsoleApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

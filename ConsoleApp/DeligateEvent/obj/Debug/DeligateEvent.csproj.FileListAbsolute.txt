@@ -1,0 +1,6 @@
+C:\Users\shohm\source\repos\ConsoleApp\DeligateEvent\bin\Debug\DeligateEvent.exe.config
+C:\Users\shohm\source\repos\ConsoleApp\DeligateEvent\bin\Debug\DeligateEvent.exe
+C:\Users\shohm\source\repos\ConsoleApp\DeligateEvent\bin\Debug\DeligateEvent.pdb
+C:\Users\shohm\source\repos\ConsoleApp\DeligateEvent\obj\Debug\DeligateEvent.csprojAssemblyReference.cache
+C:\Users\shohm\source\repos\ConsoleApp\DeligateEvent\obj\Debug\DeligateEvent.exe
+C:\Users\shohm\source\repos\ConsoleApp\DeligateEvent\obj\Debug\DeligateEvent.pdb

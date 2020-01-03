@@ -1,0 +1,6 @@
+C:\Users\shohm\source\repos\ConsoleApp\inheritance\bin\Debug\inheritance.exe.config
+C:\Users\shohm\source\repos\ConsoleApp\inheritance\bin\Debug\inheritance.exe
+C:\Users\shohm\source\repos\ConsoleApp\inheritance\bin\Debug\inheritance.pdb
+C:\Users\shohm\source\repos\ConsoleApp\inheritance\obj\Debug\inheritance.csprojAssemblyReference.cache
+C:\Users\shohm\source\repos\ConsoleApp\inheritance\obj\Debug\inheritance.exe
+C:\Users\shohm\source\repos\ConsoleApp\inheritance\obj\Debug\inheritance.pdb

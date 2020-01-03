@@ -1,0 +1,9 @@
+C:\Users\shohm\source\repos\ConsoleApp\DoubleBufferd\bin\Debug\DoubleBufferd.exe.config
+C:\Users\shohm\source\repos\ConsoleApp\DoubleBufferd\bin\Debug\DoubleBufferd.exe
+C:\Users\shohm\source\repos\ConsoleApp\DoubleBufferd\bin\Debug\DoubleBufferd.pdb
+C:\Users\shohm\source\repos\ConsoleApp\DoubleBufferd\obj\Debug\DoubleBufferd.csprojAssemblyReference.cache
+C:\Users\shohm\source\repos\ConsoleApp\DoubleBufferd\obj\Debug\DoubleBufferd.Form1.resources
+C:\Users\shohm\source\repos\ConsoleApp\DoubleBufferd\obj\Debug\DoubleBufferd.Properties.Resources.resources
+C:\Users\shohm\source\repos\ConsoleApp\DoubleBufferd\obj\Debug\DoubleBufferd.csproj.GenerateResource.cache
+C:\Users\shohm\source\repos\ConsoleApp\DoubleBufferd\obj\Debug\DoubleBufferd.exe
+C:\Users\shohm\source\repos\ConsoleApp\DoubleBufferd\obj\Debug\DoubleBufferd.pdb
