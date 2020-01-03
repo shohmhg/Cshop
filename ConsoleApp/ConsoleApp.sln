@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp5", "Windows
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoubleBufferd", "DoubleBufferd\DoubleBufferd.csproj", "{BD56E5ED-A958-4170-8406-AA76203954CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormCue", "FormCue\FormCue.csproj", "{B80CA6CB-E160-4A71-BE09-99B6CB9038B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{BD56E5ED-A958-4170-8406-AA76203954CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD56E5ED-A958-4170-8406-AA76203954CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD56E5ED-A958-4170-8406-AA76203954CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B80CA6CB-E160-4A71-BE09-99B6CB9038B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B80CA6CB-E160-4A71-BE09-99B6CB9038B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B80CA6CB-E160-4A71-BE09-99B6CB9038B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B80CA6CB-E160-4A71-BE09-99B6CB9038B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

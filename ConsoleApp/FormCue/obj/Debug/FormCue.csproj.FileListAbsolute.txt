@@ -1,0 +1,9 @@
+C:\Users\shohm\OneDrive\문서\Github\Cshop\ConsoleApp\FormCue\bin\Debug\FormCue.exe.config
+C:\Users\shohm\OneDrive\문서\Github\Cshop\ConsoleApp\FormCue\bin\Debug\FormCue.exe
+C:\Users\shohm\OneDrive\문서\Github\Cshop\ConsoleApp\FormCue\bin\Debug\FormCue.pdb
+C:\Users\shohm\OneDrive\문서\Github\Cshop\ConsoleApp\FormCue\obj\Debug\FormCue.csprojAssemblyReference.cache
+C:\Users\shohm\OneDrive\문서\Github\Cshop\ConsoleApp\FormCue\obj\Debug\FormCue.Form1.resources
+C:\Users\shohm\OneDrive\문서\Github\Cshop\ConsoleApp\FormCue\obj\Debug\FormCue.Properties.Resources.resources
+C:\Users\shohm\OneDrive\문서\Github\Cshop\ConsoleApp\FormCue\obj\Debug\FormCue.csproj.GenerateResource.cache
+C:\Users\shohm\OneDrive\문서\Github\Cshop\ConsoleApp\FormCue\obj\Debug\FormCue.exe
+C:\Users\shohm\OneDrive\문서\Github\Cshop\ConsoleApp\FormCue\obj\Debug\FormCue.pdb
