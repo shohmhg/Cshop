@@ -51,6 +51,7 @@ namespace FormCue
         {
             Width = 500;
             Height = 500;
+            
         }
 
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
