@@ -1,0 +1,11 @@
+C:\Users\shohm\OneDrive\문서\Github\Cshop\BoxPro\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\shohm\OneDrive\문서\Github\Cshop\BoxPro\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\shohm\OneDrive\문서\Github\Cshop\BoxPro\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\shohm\OneDrive\문서\Github\Cshop\BoxPro\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\shohm\OneDrive\문서\Github\Cshop\BoxPro\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\shohm\OneDrive\문서\Github\Cshop\BoxPro\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\shohm\OneDrive\문서\Github\Cshop\BoxPro\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\shohm\OneDrive\문서\Github\Cshop\BoxPro\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\shohm\OneDrive\문서\Github\Cshop\BoxPro\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\shohm\OneDrive\문서\Github\Cshop\BoxPro\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\shohm\OneDrive\문서\Github\Cshop\BoxPro\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb

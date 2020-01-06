@@ -1,0 +1,9 @@
+C:\Users\shohm\OneDrive\문서\Github\Cshop\BoxPro\BoxPro\bin\Debug\BoxPro.exe.config
+C:\Users\shohm\OneDrive\문서\Github\Cshop\BoxPro\BoxPro\bin\Debug\BoxPro.exe
+C:\Users\shohm\OneDrive\문서\Github\Cshop\BoxPro\BoxPro\bin\Debug\BoxPro.pdb
+C:\Users\shohm\OneDrive\문서\Github\Cshop\BoxPro\BoxPro\obj\Debug\BoxPro.csprojAssemblyReference.cache
+C:\Users\shohm\OneDrive\문서\Github\Cshop\BoxPro\BoxPro\obj\Debug\BoxPro.Form1.resources
+C:\Users\shohm\OneDrive\문서\Github\Cshop\BoxPro\BoxPro\obj\Debug\BoxPro.Properties.Resources.resources
+C:\Users\shohm\OneDrive\문서\Github\Cshop\BoxPro\BoxPro\obj\Debug\BoxPro.csproj.GenerateResource.cache
+C:\Users\shohm\OneDrive\문서\Github\Cshop\BoxPro\BoxPro\obj\Debug\BoxPro.exe
+C:\Users\shohm\OneDrive\문서\Github\Cshop\BoxPro\BoxPro\obj\Debug\BoxPro.pdb
