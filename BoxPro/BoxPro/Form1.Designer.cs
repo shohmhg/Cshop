@@ -28,7 +28,21 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
+            this.ticktock = new System.Windows.Forms.Timer(this.components);
+            this.Represher = new System.Windows.Forms.Timer(this.components);
             this.SuspendLayout();
+            // 
+            // ticktock
+            // 
+            this.ticktock.Enabled = true;
+            this.ticktock.Interval = 1000;
+            this.ticktock.Tick += new System.EventHandler(this.ticktock_Tick);
+            // 
+            // Represher
+            // 
+            this.Represher.Enabled = true;
+            this.Represher.Tick += new System.EventHandler(this.Represher_Tick);
             // 
             // Form1
             // 
@@ -37,12 +51,16 @@
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Paint += new System.Windows.Forms.PaintEventHandler(this.Form1_Paint);
             this.Layout += new System.Windows.Forms.LayoutEventHandler(this.Form1_Layout);
             this.ResumeLayout(false);
 
         }
 
         #endregion
+
+        private System.Windows.Forms.Timer ticktock;
+        private System.Windows.Forms.Timer Represher;
     }
 }
 
