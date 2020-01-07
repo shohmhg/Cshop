@@ -7,3 +7,12 @@ C:\Users\shohm\OneDrive\문서\Github\Cshop\BoxPro\BoxPro\obj\Debug\BoxPro.Prope
 C:\Users\shohm\OneDrive\문서\Github\Cshop\BoxPro\BoxPro\obj\Debug\BoxPro.csproj.GenerateResource.cache
 C:\Users\shohm\OneDrive\문서\Github\Cshop\BoxPro\BoxPro\obj\Debug\BoxPro.exe
 C:\Users\shohm\OneDrive\문서\Github\Cshop\BoxPro\BoxPro\obj\Debug\BoxPro.pdb
+C:\Users\82103\Documents\GitHub\Cshop\BoxPro\BoxPro\bin\Debug\BoxPro.exe.config
+C:\Users\82103\Documents\GitHub\Cshop\BoxPro\BoxPro\bin\Debug\BoxPro.exe
+C:\Users\82103\Documents\GitHub\Cshop\BoxPro\BoxPro\bin\Debug\BoxPro.pdb
+C:\Users\82103\Documents\GitHub\Cshop\BoxPro\BoxPro\obj\Debug\BoxPro.csprojAssemblyReference.cache
+C:\Users\82103\Documents\GitHub\Cshop\BoxPro\BoxPro\obj\Debug\BoxPro.Form1.resources
+C:\Users\82103\Documents\GitHub\Cshop\BoxPro\BoxPro\obj\Debug\BoxPro.Properties.Resources.resources
+C:\Users\82103\Documents\GitHub\Cshop\BoxPro\BoxPro\obj\Debug\BoxPro.csproj.GenerateResource.cache
+C:\Users\82103\Documents\GitHub\Cshop\BoxPro\BoxPro\obj\Debug\BoxPro.exe
+C:\Users\82103\Documents\GitHub\Cshop\BoxPro\BoxPro\obj\Debug\BoxPro.pdb

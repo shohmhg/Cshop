@@ -1,27 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shohm\\OneDrive\\문서\\Github\\Cshop\\BoxPro\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\82103\\Documents\\GitHub\\Cshop\\BoxPro\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shohm\\OneDrive\\문서\\Github\\Cshop\\BoxPro\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\82103\\Documents\\GitHub\\Cshop\\BoxPro\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shohm\\OneDrive\\문서\\Github\\Cshop\\BoxPro\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\82103\\Documents\\GitHub\\Cshop\\BoxPro\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\shohm\\OneDrive\\문서\\Github\\Cshop\\BoxPro\\ConsoleApp1\\ConsoleApp1.csproj",
-        "packagesPath": "C:\\Users\\shohm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shohm\\OneDrive\\문서\\Github\\Cshop\\BoxPro\\ConsoleApp1\\obj\\",
+        "projectPath": "C:\\Users\\82103\\Documents\\GitHub\\Cshop\\BoxPro\\ConsoleApp1\\ConsoleApp1.csproj",
+        "packagesPath": "C:\\Users\\82103\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\82103\\Documents\\GitHub\\Cshop\\BoxPro\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\shohm\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\82103\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
