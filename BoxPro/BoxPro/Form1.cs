@@ -44,9 +44,11 @@ namespace BoxPro
                     {0,1,0 },
                     {0,1,0 }
                };
+
     static int CurrentStageNote;
-        public int[,] Stage1_Graphic = new int[8,3];
-        public void Shift(KeyEventArgs e)
+    public int[,] Stage1_Graphic = new int[8,3];
+    public int[] KEY = new int[] { 0, 0, 0 };
+        public void Shift()
         {
             int[,] Clone = (int[,])Stage1_Graphic.Clone();
             Graphics g = CreateGraphics();
@@ -143,8 +145,27 @@ namespace BoxPro
 
         private void Form1_KeyDown(object sender, KeyEventArgs e)
         {
-            Shift(e);
+            //int[] KEY = new int[] { 0, 0, 0 };
+
+            if (e.KeyCode == Keys.Left) KEY[0] = 1 ;
+            if (e.KeyCode == Keys.Right) KEY[2] = 1;
+            if (e.KeyCode == Keys.Down) KEY[1] = 1;
+            if (e.KeyCode == Keys.Up) KEY[1] = 1;
+
+            
+        }
+
+        private void Form1_KeyUp(object sender, KeyEventArgs e)
+        {
+            if (Stage1_Graphic[7, 0] == KEY[0] &&
+                Stage1_Graphic[7, 1] == KEY[1] &&
+                Stage1_Graphic[7, 2] == KEY[2])
+            {
+                Shift();
+            }
+            KEY[0] = 0;
+            KEY[1] = 0;
+            KEY[2] = 0;
         }
     }
 }
-
