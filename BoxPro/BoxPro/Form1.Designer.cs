@@ -42,6 +42,7 @@
             // Represher
             // 
             this.Represher.Enabled = true;
+            this.Represher.Interval = 5000;
             this.Represher.Tick += new System.EventHandler(this.Represher_Tick);
             // 
             // Form1
