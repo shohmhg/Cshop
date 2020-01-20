@@ -44,10 +44,12 @@ namespace BoxPro
                         {0,1,0 }
            };
 
-        static int CurrentStageNote;
-        public int[,] Stage1_Graphic = new int[8,3];
-        public int[] KEY = new int[] { 0, 0, 0 };
-        public int Count = 0;
+        static int CurrentStageNote;                    //Stage1_Graphic 에 넘겨주는 키
+        public int[,] Stage1_Graphic = new int[8,3];    //보이는 박스 배열
+        public int[] KEY = new int[] { 0, 0, 0 };       //입력받은 키 배열
+        public int Count = 0;                           //4번째마다 가로줄
+        public int Seconds = 0;
+        public int mSeconds = 0;
 
         public void Shift()
         {
@@ -80,12 +82,15 @@ namespace BoxPro
                 }
             }
 
+            //가로줄 한칸씩 내리기
+            Count++;
+            if (Count == 4) Count = 0;
+
             Invalidate();
         }
         
         public void Represher_()    //게임 초기화
-        {
-            
+        {   
             //Stage1의 최하단 행 저장
             CurrentStageNote = Stage1.GetLength(0) - 1 - 8;
 
@@ -103,6 +108,12 @@ namespace BoxPro
             //4번째마다 가로줄 그래픽 초기화
             Count = 0;
 
+            //타이머 초기화
+            ticktock.Stop();
+            Seconds = 7;
+            mSeconds = 00;
+            timelabel.Text = Seconds + " : " + mSeconds;
+
             Invalidate();
         }
         public Form1()
@@ -113,17 +124,26 @@ namespace BoxPro
 
         private void Form1_Layout(object sender, LayoutEventArgs e)
         {
-
+            Width = 300; Height = 500;
         }
 
         private void ticktock_Tick(object sender, EventArgs e)
         {
+            timelabel.Text = Seconds + " : " + mSeconds;
             
+            if (mSeconds == 0) 
+            {
+                mSeconds = 100;
+                Seconds--;
+            }
+            mSeconds--;
+            if (Seconds == 0)
+                Represher_();
         }
 
         private void Represher_Tick(object sender, EventArgs e)
         {
-            Represher_();
+            //Represher_();
         }
 
         private void Form1_Paint(object sender, PaintEventArgs e)
@@ -131,12 +151,10 @@ namespace BoxPro
             Rectangle rect = new Rectangle();
             int Box_Width = 40, Box_Height = Box_Width;
             int Box_X = Box_Width + Box_Width/2, Box_Y = Box_Height + Box_Height/2;
-
+            
             //4번째 블록마다 가로줄
             e.Graphics.DrawLine(Pens.Black, Box_X, Box_Y * Count, Box_X + 100, Box_Y * Count);
             e.Graphics.DrawLine(Pens.Black, Box_X, (Box_Y * 4) + (Box_Y * Count), Box_X + 100, (Box_Y * 4) + (Box_Y * Count));
-            Count++;
-            if (Count == 4) Count = 0;
 
             for (int i = 0; i < Stage1_Graphic.GetLength(0); i++)
             {
@@ -158,7 +176,6 @@ namespace BoxPro
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
         }
 
         private void Form1_KeyDown(object sender, KeyEventArgs e)
@@ -178,6 +195,8 @@ namespace BoxPro
                 Stage1_Graphic[7, 1] == KEY[1] &&
                 Stage1_Graphic[7, 2] == KEY[2])
             {
+                //타이머 시작
+                ticktock.Start();
                 Shift();
             }
 

@@ -31,25 +31,35 @@
             this.components = new System.ComponentModel.Container();
             this.ticktock = new System.Windows.Forms.Timer(this.components);
             this.Represher = new System.Windows.Forms.Timer(this.components);
+            this.timelabel = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // ticktock
             // 
-            this.ticktock.Enabled = true;
             this.ticktock.Interval = 1000;
             this.ticktock.Tick += new System.EventHandler(this.ticktock_Tick);
             // 
             // Represher
             // 
             this.Represher.Enabled = true;
-            this.Represher.Interval = 5000;
+            this.Represher.Interval = 7000;
             this.Represher.Tick += new System.EventHandler(this.Represher_Tick);
+            // 
+            // timelabel
+            // 
+            this.timelabel.AutoSize = true;
+            this.timelabel.Location = new System.Drawing.Point(189, 32);
+            this.timelabel.Name = "timelabel";
+            this.timelabel.Size = new System.Drawing.Size(56, 12);
+            this.timelabel.TabIndex = 0;
+            this.timelabel.Text = "timelabel";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(348, 514);
+            this.Controls.Add(this.timelabel);
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
@@ -58,6 +68,7 @@
             this.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
             this.Layout += new System.Windows.Forms.LayoutEventHandler(this.Form1_Layout);
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -65,6 +76,7 @@
 
         private System.Windows.Forms.Timer ticktock;
         private System.Windows.Forms.Timer Represher;
+        private System.Windows.Forms.Label timelabel;
     }
 }
 
